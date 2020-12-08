@@ -1,0 +1,15 @@
+.header{
+	min-height: 10px;
+	color: red;
+	background-color: pink;
+	text-align: center;
+}
+.wrapper{}
+.content1{
+	border: solid;
+	border-color: red;
+}
+.content2{
+	border: solid;
+	border-color: blue;
+}
